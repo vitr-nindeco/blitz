@@ -42,7 +42,7 @@
 #include <fcntl.h>
 
 #ifdef BLITZ_DEBUG
-#include "ext/standard/php_smart_str.h"
+#include "ext/standard/php_smart_string.h"
 #endif
 
 #ifdef PHP_WIN32
